@@ -1,3 +1,5 @@
-[
-{ "email": "nazir99iq@gmail.com"}, { "email": "nazir99inf@gmail.com" }
+{
+"email": [
+  "nazir99iq@gmail.com", "email": "nazir99inf@gmail.com"
 ]
+}
